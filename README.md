@@ -32,4 +32,5 @@ BCG Gamma
 
 - When you are trying to predict an outcome, the result that you’re trying to predict can either be:
 - A continuous number, e.g. an employee salary or a discrete value, e.g. a job title
-- In our example, we are trying to predict whether or not a client will churn, so it will only ever be 1 of 2 values (True/False, 1/0, etc…).
+
+In our example, we are trying to predict whether or not a client will churn, so it will only ever be (True/False, 1/0, Yes/No, etc…).
